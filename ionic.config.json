@@ -1,0 +1,7 @@
+{
+  "name": "controlDeGastosApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
